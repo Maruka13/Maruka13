@@ -3,8 +3,14 @@
 ###
 
 <p align="left">My name is Emanuelle Gomes, but people also call me Maruka. I’m 24 years old and from the countryside of São Paulo.  
-  <br>I have a technical degree in Mechatronics, studied a few semesters of Computer Science at IFMG but needed to return home, and now I’m completing a degree in Systems Analysis and Development at UNINTER.  
-  <br>I enjoy spending my time studying programming, English, and German, listening to music, exercising, and especially playing a good Souls-like game.</p>
+<br>I have a technical degree in Mechatronics, studied a few semesters of Computer Science at IFMG but needed to return home, and now I’m completing a degree in Systems Analysis and Development at UNINTER.  
+<br>I enjoy spending my time studying programming, English, and German, listening to music, exercising, and especially playing a good Souls-like game.</p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/W9BNY0o3vVoAAAAd/eldenring-cankaynarpinar.gif"  />
+</div>
 
 ###
 
@@ -59,9 +65,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Maruka13/Maruka13/output/snake.svg" alt="Snake animation" />
 
 ###
