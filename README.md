@@ -6,11 +6,16 @@
   <tr>
     <!-- Texto -->
     <td style="text-align: left; vertical-align: top;">
-      My name is Emanuelle Gomes, but people also call me Maruka. I’m 24 years old and from the countryside of São Paulo.<br>
-      I have a technical degree in Mechatronics, studied a few semesters of Computer Science at IFMG but needed to return home, and now I’m completing a degree in Systems Analysis and Development at UNINTER.<br>
-      I enjoy spending my time studying programming, English and German, listening to music, exercising, and especially playing a good Souls-like game.<br>
-      I’m a CNC machine programmer and this past year I dedicated myself to this field. However, now I want to return to my projects and, above all, fill this profile with them.
-    </td>
+  Hi, my name is <b>Emanuelle Gomes</b>, but you can call me <b>Maruka</b>. 🦇
+     <br><br> 
+      I'm a curious <b>full-stack developer</b> from the countryside of São Paulo, with a degree in Systems Analysis and Development and addicted to tech mini-courses.
+      My journey has been a mix of hardware and software: I have a technical degree in <b>Mechatronics</b> and studied <b>Computer Science</b> at IFMG. Now, I'm returning to my roots in software development with a <b>focus on .NET, Python, and AI</b>. My goal is to connect industrial logic with intelligent applications.<br><br>
+
+  When I'm not programming, you'll find me: <br>
+    🔥 Facing bosses in a <b>Souls Like</b> game. <br>
+    📚 Practicing <b>English and German</b> to broaden my horizons. <br>
+    🎧 Listening to music or exercising to stay focused.
+</td>
     <!-- GIF -->
     <td style="text-align: center; vertical-align: top;">
       <img src="https://media1.tenor.com/m/W9BNY0o3vVoAAAAd/eldenring-cankaynarpinar.gif" width="200" alt="Elden Ring GIF" />
